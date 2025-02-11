@@ -16,33 +16,29 @@ timezone: Asia/Karachi
 
 title: Issue403 # the main title
 
-tagline: Htb Writeups # it will display as the subtitle
+tagline: Hacking & CTF Writeups
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A blog showcasing CTF walkthroughs, hacking techniques, and cybersecurity insights by Issue403.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://issue403.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: Ans-Inayat # Updated GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: issue403 # Updated Twitter username
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Ans Inayat
+  email: ans.inayat.0@gmail.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/issue403
+    - https://github.com/Ans-Inayat
+    - https://medium.com/@issue403
+    - https://linkedin.com/in/ans-inayat
 
 # Site Verification Settings
 webmaster_verifications:
@@ -109,13 +105,13 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
+    repo: Ans-Inayat/blog-comments # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
@@ -123,7 +119,7 @@ comments:
     repo_id:
     category:
     category_id:
-    mapping: # optional, default to 'pathname'
+    mapping: Ans-Inayat/blog-comments # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
