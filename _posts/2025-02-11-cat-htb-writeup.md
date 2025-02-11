@@ -4,7 +4,7 @@ date: 2025-02-03
 categories: [CTF, Writeups, HTB]
 tags: [htb, linux, rce, lfi, stored-xss, privilege-escalation, gitea]
 image:
-  path: ![image](https://github.com/user-attachments/assets/230171e9-d065-440a-8015-051c32998604)
+  path: https://blog.n0va.in/assets/images/htb-cat.jpg
 
   description: A detailed walkthrough of the Cat HTB machine, showcasing exploitation of stored XSS, SQL injection, and Gitea vulnerabilities.
 author: l4tmur
