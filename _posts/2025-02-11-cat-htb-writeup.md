@@ -1,6 +1,6 @@
 ---
 title: Cat - Hack The Box Writeup
-date: 2025-02-03
+date: 2025-02-11
 categories: [CTF, Writeups, HTB]
 tags: [htb, linux, rce, lfi, stored-xss, privilege-escalation, gitea]
 image:
