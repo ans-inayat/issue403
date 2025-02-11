@@ -34,7 +34,7 @@ Before diving deeper, let’s explore the application to get an overall idea.
 
 The website appears to be a community page for cat lovers, featuring a voting system. On further inspection, we find a voting section:
 
-![Voting Section](path-to-voting-image.jpg)
+![Voting Section](https://blog.n0va.in/assets/images/Pasted%20image%2020250203031230.png)
 
 However, voting is currently closed. This suggests that additional functionalities might be accessible after logging in.
 
