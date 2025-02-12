@@ -7,7 +7,7 @@ image:
   path: https://blog.n0va.in/assets/images/htb-cat.jpg
 
   description: A detailed walkthrough of the Cat HTB machine, showcasing exploitation of stored XSS, SQL injection, and Gitea vulnerabilities.
-author: l4tmur
+author: issue403
 ---
 
 ## Nmap Recon and Initial Enumeration
