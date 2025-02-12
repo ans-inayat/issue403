@@ -3,7 +3,9 @@ title: "DarkCorp - HackTheBox Season 7 Walkthrough"
 date: 2025-02-12
 author: "Ans Inayat"
 categories: [HackTheBox, Penetration Testing]
-thumbnail: "https://pbs.twimg.com/media/GjHp3BjWcAAQAVB.jpg"
+image: 
+  path: https://pbs.twimg.com/media/GjHp3BjWcAAQAVB.jpg
+  description: DarkCorp Walkthrough - HackTheBox Season 7
 ---
 
 ## Introduction
@@ -41,6 +43,8 @@ password: ThePlague61780
 
 Once connected, we have access to the internal network.
 
+![SSHuttle Connection](https://iili.io/2m0S96X.png)
+
 ---
 
 ## User Access
@@ -50,6 +54,8 @@ With network access established, we can log in using Evil-WinRM to retrieve the 
 ```bash
 evil-winrm -i 172.16.20.1 -u "administrator" -H 'fcb3ca5a19a1ccf2d14c13e8b64cde0f'
 ```
+
+![User Flag](https://iili.io/2m0Sdas.png)
 
 Retrieve the user flag:
 
@@ -72,6 +78,8 @@ To obtain root privileges, we log in to the second machine:
 ```bash
 evil-winrm -i 172.16.20.2 -u Administrator -H '88d84ec08dad123eb04a060a74053f21'
 ```
+
+![Root Flag](https://iili.io/2m0SJFn.png)
 
 Retrieve the root flag:
 
