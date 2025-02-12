@@ -1,12 +1,12 @@
 ---
-title: How to Install and Use DDoS Tools
+title: DarkCorp - HackTheBox Season 7 Walkthrough
 date: 2025-02-12
-categories: [Cybersecurity, Tools, DDoS]
-tags: [ddos, loic, hulk, torshammer, slowloris, pyloris, hping3]
+categories: [HackTheBox, Penetration Testing]
+tags: [hackthebox, penetration-testing, sshuttle, evil-winrm, htb, darkcorp htb]
 image:
-  path: https://miro.medium.com/v2/resize:fit:720/format:webp/1*CS2xkaUsNsCpXlS8pYvltQ.png
-  description: A comprehensive guide on installing and using various DDoS tools for educational purposes.
-author: issue403
+  path: https://pbs.twimg.com/media/GjHp3BjWcAAQAVB.jpg
+  description: A walkthrough of the DarkCorp machine from HackTheBox Season 7, covering network pivoting and privilege escalation.
+author: Ans Inayat
 ---
 
 ## Introduction
