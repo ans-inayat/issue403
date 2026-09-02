@@ -339,12 +339,3 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ## Author
 
 **ans-inayat** — [GitHub](https://github.com/ans-inayat)
-
-## Documentation
-
-Project documentation is available in the docs/ directory:
-
-- [Home](docs/Home.md)
-- [Installation](docs/Installation.md)
-- [Usage](docs/Usage.md)
-- [Contributing](docs/Contributing.md)
