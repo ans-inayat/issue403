@@ -27,5 +27,7 @@ As a **freelancer**, I specialize in creating **custom web solutions** and condu
 
 ## Passion & Vision  
 I’m driven by a passion for **ethical hacking**, **cybersecurity innovation**, and a commitment to fostering a safer digital world. My ultimate goal is to lead a cybersecurity team and contribute to cutting-edge advancements in digital protection.  
+### Join HTB Team and hack the Planet
+- https://app.hackthebox.com/public/teams/6904
 
 Let’s connect and build secure solutions together!  
